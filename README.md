@@ -19,4 +19,9 @@ daily activities
 #Completed the videos on chapter 2
 #Done with chapter-2 examples
 #working on chapter 3
->>>>>>> fd9481daca8acefab10d5775f2c23455270faacb
+#chapter 3 examples completed
+
+#####12/05/2021
+#Completed the videos on chapter 3 & 4
+#Done with the chapters 3 & 4 examples
+#Added the examples to git
