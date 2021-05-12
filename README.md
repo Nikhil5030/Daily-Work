@@ -22,6 +22,6 @@ daily activities
 #chapter 3 examples completed
 
 #####12/05/2021
-#Completed the videos on chapter 3 & 4
-#Done with the chapters 3 & 4 examples
+#Completed the videos on chapter 3,4 & 5
+#Done with the chapters 3,4 & 5 examples
 #Added the examples to git
