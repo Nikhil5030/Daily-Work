@@ -1,0 +1,32 @@
+<div class="container">
+Name:<h3 class="text-success">{{ name }}</h3>
+Company:<h3 class="text-success">{{ company }}</h3>
+<br>
+<div>
+    <label for="name">Name</label>
+    <input type="text" class="form-control" [(ngModel)]= "name"/>
+    </div>
+<br>
+<h3 [innerHtml]='name1'></h3>
+<br>
+<br>
+<hr>
+<p>Server with ID {{serverID}} is {{serverStatus}}. </p>
+<p>  
+    Server2 is also working fine.  
+</p>  
+<label for="serverName">serverName</label>   
+<input type="text" class="form-control" (input)="OnUpdateServerName($event)"/> 
+{{ serverName }}
+<br/>
+<br>
+ <button class="btn btn-primary"  
+        [disabled]='!allowNewServer'
+        (click)='onCreateServer()'>Add Server</button>
+        {{serverCreationStatus}}   
+         
+</div>
+
+
+
+
