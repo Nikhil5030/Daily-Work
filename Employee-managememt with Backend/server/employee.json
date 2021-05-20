@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": 100,
+      "password": "password",
+      "name": "Suresh",
+      "address": "Markapur",
+      "age": 23,
+      "company": "Cognizant"
+    },
+    {
+      "id": 101,
+      "password": "password",
+      "name": "Ramesh",
+      "address": "Nellore",
+      "age": "25",
+      "company": "TCS"
+    },
+    {
+      "id": 102,
+      "password": "password",
+      "name": "Mahesh",
+      "address": "Guntur",
+      "age": 24,
+      "company": "Cognizant"
+    },
+    {
+      "id": 103,
+      "password": "password",
+      "name": "Naresh",
+      "address": "Vijayawada",
+      "age": 23,
+      "company": "Wipro"
+    },
+    {
+      "id": 104,
+      "password": "password",
+      "name": "Harish",
+      "address": "Vizag",
+      "age": "24",
+      "company": "Infosys"
+    },
+    {
+      "id": "105",
+      "password": "Nikhil@123",
+      "name": "Nikhil",
+      "address": "Gudur",
+      "age": "26",
+      "company": "CTS"
+    }
+  ]
+}
