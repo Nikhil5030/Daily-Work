@@ -40,3 +40,11 @@ daily activities
 #Connected the back end with employee-mangement project
 #Related files are added to git
 
+#####21/05/2021
+#Done with the Angular handson 
+#Files are added to git
+
+#####24/05/2021
+#Done with the microservices V1 from steps 1-20
+#files are added to git
+
